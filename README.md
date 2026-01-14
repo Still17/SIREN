@@ -2,7 +2,7 @@
 
 **Sentiment Intelligence Real-time Engine Network (S.I.R.E.N.)**
 
-SIREN is an **AI-powered market intelligence platform** designed to detect **early sentiment and behavioral shifts in crypto markets** by analyzing high-frequency social data in real time.
+SIREN is an **AI-powered market intelligence system** designed to detect **early sentiment and behavioral shifts in crypto markets** by analyzing high-frequency social data in real time.
 
 The system focuses on identifying changes in collective conviction, engagement quality, and analytical depth **before these shifts become visible in price action or traditional market indicators**.
 
